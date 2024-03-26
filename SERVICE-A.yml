@@ -1,3 +1,4 @@
 server:
   port: 8200
 message2: File-Service2
+env: prod
